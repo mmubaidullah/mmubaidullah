@@ -44,7 +44,7 @@ A dedicated **Frontend Developer** with a unique background in **Islamic Jurispr
 ## 📫 Let's Connect!
 <p align="left">
 <a href="https://linkedin.com/in/ubaidullah-it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ubaidullah-dev" height="30" width="40" /></a>
-<a href="mailto:ubaidullah.work.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ubaidullah.work.dev" height="30" width="40" /></a>
+<a href="mailto:ubaid111999@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ubaidullah" height="30" width="40" /></a>
 </p>
 
 <p align="center">
