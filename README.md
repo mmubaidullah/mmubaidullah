@@ -45,7 +45,7 @@ A dedicated **Frontend Developer** with a unique background in **Islamic Jurispr
 
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |
-| **Uttoradhikar** | Next.js, Tailwind | [🚀 Live](https://uttoradhikar.netlify.app/) \| [💻 Repo](https://github.com/mmubaidullah/uttoradhikar) |
+| **Uttoradhikar** | React, Tailwind | [🚀 Live](https://uttoradhikar.netlify.app/) \| [💻 Repo](https://github.com/mmubaidullah/uttoradhikar) |
 | **E-Tuition BD** | React, Node, Express | [🚀 Live](https://etuition-bd.netlify.app/) \| [💻 Repo](https://github.com/mmubaidullah/etuitionbd_client) |
 
 ---
