@@ -52,8 +52,9 @@ A dedicated **Frontend Developer** with a unique background in **Islamic Jurispr
 
 ### 🔝 Contributions & Reach
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=mmubaidullah&limit=5&theme=radical&combine_all_yearly_contributions=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mmubaidullah&show_icons=true&theme=radical&combine_all_yearly_contributions=true" width="100%" />
 </p>
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mmubaidullah&label=Profile%20Views&color=0077B5&style=flat-square" alt="mmubaidullah" />
