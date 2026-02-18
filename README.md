@@ -36,6 +36,14 @@ A dedicated **Frontend Developer** with a unique background in **Islamic Jurispr
   <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=mmubaidullah&theme=tokyonight&hide_border=true" />
 </p>
 
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmubaidullah&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+---
+
 ### ✍️ Wisdom in Code
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
@@ -50,14 +58,9 @@ A dedicated **Frontend Developer** with a unique background in **Islamic Jurispr
 
 ---
 
-### 🔝 Contributions & Reach
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mmubaidullah&show_icons=true&theme=radical&combine_all_yearly_contributions=true" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=mmubaidullah&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mmubaidullah&label=Profile%20Views&color=0077B5&style=flat-square" alt="mmubaidullah" />
-</p>
 
 
